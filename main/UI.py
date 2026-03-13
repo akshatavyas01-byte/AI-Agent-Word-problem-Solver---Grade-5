@@ -5,7 +5,7 @@ from agent import agent
 from langchain_core.messages import HumanMessage
 import sqlite3
 
-conn=sqlite3.connect(r"D:\PRACTICE AGENT\LANGCHAIN\main\database.db")
+conn=sqlite3.connect(r"main/database.db")
 cursor=conn.cursor()
 
 # if "messages" not in st.session_state:
