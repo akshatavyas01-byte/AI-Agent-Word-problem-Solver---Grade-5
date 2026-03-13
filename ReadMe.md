@@ -65,23 +65,23 @@ This project introduces an AI agent that analyzes the problem, selects the corre
 
 ## 8. Example Input & Output
 ### 1. Docker Run
-![Docker Run](images\docker_run.png)
+![Docker Run](images/docker_run.png)
 
 ### 2. Streamlit UI:
-![Streamlit UI](images\streaming.png)
+![Streamlit UI](images/streaming.png)
 
 ### 3. Upload Word Problem:
-![Word Problem Uploaded system thinking](images\Thinking.png)
+![Word Problem Uploaded system thinking](images/Thinking.png)
 
 ### 4. Streamed Answer
-![Answer Streamed](images\Answer.png)
+![Answer Streamed](images/Answer.png)
 
 ### 5. History
-![History 1](images\histoy.png)
-![History 2](images\history2.png)
+![History 1](images/histoy.png)
+![History 2](images/history2.png)
 
 ### 6.Video Demo
-[![Watch Demo](images\streaming.png)](https://www.youtube.com/watch?v=7o6yV1BGRDo)
+[![Watch Demo](images/streaming.png)](https://www.youtube.com/watch?v=7o6yV1BGRDo)
 
 
 ## 9. Installation & Setup
