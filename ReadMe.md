@@ -1,4 +1,7 @@
 # Word problem Solver - Grade 5
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ai-agent-word-problem-solver-grade-5.onrender.com/)
+
 ## 1. Overview
 ``This project implements an AI agent that solves Grade 5 mathematical word problems.``
 
@@ -87,7 +90,7 @@ This project introduces an AI agent that analyzes the problem, selects the corre
 ## 9. Installation & Setup
 ### 1. Clone the Repository:
 ```python
-git clone https://github.com/your-username/risk-analyser.git
+git clone https://github.com/your-username/AI-Agent-Word-problem-Solver---Grade-5.git
 cd risk-analyser
 ```
 ### 2. Create Virtual Environment
